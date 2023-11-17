@@ -1,7 +1,4 @@
 # 10.4-Business-Case-Walmart---Confidence-Interval-and-CLT
-Scaler DSML:  Business Case: Walmart - Confidence Interval and CLT
-
-Certainly, here's the Readme with that part intact:
 
 # Walmart - Confidence Interval and CLT 📈🛒
 
